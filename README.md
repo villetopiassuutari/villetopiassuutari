@@ -1,12 +1,18 @@
-   ![HelloThereHiThereGIF](https://user-images.githubusercontent.com/124371017/216828403-cf3b559c-b9ad-41a1-ae13-4fc30507193f.gif)     ![HelloThereHiThereGIF (2)](https://user-images.githubusercontent.com/124371017/216828467-96030ce8-7db7-4213-8693-8906b5de1c2b.gif) ![HelloThereHiThereGIF](https://user-images.githubusercontent.com/124371017/216828481-24b22e32-e067-405a-9e01-da502e08f1ff.gif) 
+![HelloThereHiThereGIF](https://user-images.githubusercontent.com/124371017/216828403-cf3b559c-b9ad-41a1-ae13-4fc30507193f.gif)  
 
 
 
 
 
 
+🎓  My name is Ville Suutari and I'm a first year computer science student at the University of Turku
+🖥️  Im currently honing my programming skills with Python and Java
 
- My name is Ville Suutari and I'm a first year computer science student at the University of Turku
+
+
+
+
+[![Ville's github stats](https://github-readme-stats.vercel.app/api?username=villetopiassuutari&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **villetopiassuutari/villetopiassuutari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
