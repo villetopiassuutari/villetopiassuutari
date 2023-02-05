@@ -1,5 +1,6 @@
 ### I'm a first year computer science student at the University of Turku
-![Uploading aktual tausatakuva.PNG…]
+
+![aktual tausatakuva](https://user-images.githubusercontent.com/124371017/216823768-6bf52a81-fc8c-44b5-8c6a-142e1f9022cc.PNG)
 
 <!--
 **villetopiassuutari/villetopiassuutari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
