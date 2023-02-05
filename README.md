@@ -1,4 +1,11 @@
-### Hello there! 
+   ![HelloThereHiThereGIF](https://user-images.githubusercontent.com/124371017/216828403-cf3b559c-b9ad-41a1-ae13-4fc30507193f.gif) ![HelloThereHiThereGIF (2)](https://user-images.githubusercontent.com/124371017/216828467-96030ce8-7db7-4213-8693-8906b5de1c2b.gif) ![HelloThereHiThereGIF](https://user-images.githubusercontent.com/124371017/216828481-24b22e32-e067-405a-9e01-da502e08f1ff.gif) ![HelloThereHiThereGIF (2)](https://user-images.githubusercontent.com/124371017/216828487-a5dc85dd-f0a9-45d6-8f93-816070999284.gif)
+
+
+
+
+
+
+
  My name is Ville Suutari and I'm a first year computer science student at the University of Turku
 
 <!--
