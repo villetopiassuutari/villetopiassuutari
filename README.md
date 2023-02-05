@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a first year computer science student at the University of Turku
 
 <!--
 **villetopiassuutari/villetopiassuutari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
