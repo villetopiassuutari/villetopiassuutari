@@ -1,4 +1,5 @@
-### <p><img align="center" alt="gif" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="1200" height="400" /></p>
+### Hello there! 
+ My name is Ville Suutari and I'm a first year computer science student at the University of Turku
 
 <!--
 **villetopiassuutari/villetopiassuutari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
