@@ -5,8 +5,8 @@
 
 
 
-- 🎓  My name is Ville Suutari and I'm a first-year computer science student at the University of Turku
-- 🖥️  Im currently learning and honing my programming skills with Python and Java
+- 🎓  My name is Ville Suutari and I'm a second-year computer science student at the University of Turku
+- 🖥️  Im currently learning and honing my programming skills with Python, Java, JavaScript, SQL and HTML
 - 🫱🏼‍🫲🏼  I enjoy connecting with other people and finding new friends/colleagues 
 - ⭐  I make every moment count!
 
