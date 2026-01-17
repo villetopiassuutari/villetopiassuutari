@@ -5,8 +5,8 @@
 
 
 
-- 🎓  My name is Ville Suutari and I'm a third-year computer science student at University of Turku
-- 🔐  After finishing my bachelor's thesis I will begin working on my master's degree in cybersecurity
+- 🎓  My name is Ville Suutari and I'm a first-year Master's student at University of Turku
+- 🔐  I'm currently pursuing my Master's degree with Cybersecurity Engineering as my major.
 - 🖥️  I'm currently learning and honing my programming skills with Python, Java, JavaScript, SQL and HTML
 - 🫱🏼‍🫲🏼  I enjoy connecting with other people and finding new friends/colleagues 
 - ⭐  I'm a fast learner and a curious spirit eager to develop my expertise further and grow as a future professional
